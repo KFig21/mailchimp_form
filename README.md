@@ -1,5 +1,6 @@
 # mailchimp_form
 
+- <a href="https://kfig21.github.io/mailchimp_form/" target="_blank" rel="noopener noreferrer">View the project here!</a>
 - Made for The Odin Project curriculum
 - Re-create a popular HTML form with HTML and CSS styling (<a href="https://login.mailchimp.com/signup/" target="_blank" rel="noopener noreferrer">Mailchimp form</a>)
 
