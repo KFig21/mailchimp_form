@@ -1,7 +1,7 @@
 # mailchimp_form
 
 - Made for The Odin Project curriculum
-- Re-create a popular HTML with HTML and CSS styling
+- Re-create a popular HTML form with HTML and CSS styling (<a href="https://login.mailchimp.com/signup/" target="_blank" rel="noopener noreferrer">Mailchimp form</a>)
 
 <h3> Things I'm proud of: </h3>
 
