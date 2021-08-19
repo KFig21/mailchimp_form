@@ -528,3 +528,10 @@ label {
     width: 100%;
   }
 }
+
+@media only screen and (max-width: 510px) {
+  .password-requirements {
+    display: flex;
+    flex-direction: column;
+  }
+}
