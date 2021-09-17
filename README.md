@@ -1,4 +1,4 @@
-# mailchimp_form
+# HTML Form Project
 
 <p><a href="https://kfig21.github.io/mailchimp_form/" target="_blank" rel="noopener noreferrer">View the project here!</a> 👀</p>
 
