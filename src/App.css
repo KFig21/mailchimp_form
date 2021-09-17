@@ -25,6 +25,10 @@ a {
   text-decoration: none;
 }
 
+.App {
+  height: 100%;
+}
+
 .sideArt {
   height: 100%;
 }
@@ -350,8 +354,8 @@ label {
 
 /* modal */
 .modal {
-  position: absolute;
-  height: 100vh;
+  position: fixed;
+  height: 100%;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.6);
   display: flex;
