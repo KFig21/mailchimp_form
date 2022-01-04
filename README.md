@@ -3,7 +3,7 @@
 <p><a href="https://kfig21.github.io/mailchimp_form/" target="_blank" rel="noopener noreferrer">View the project here!</a> 👀</p>
 
 <h3>Summary</h3>
-<p>This project was built for The Odin Project HTML/CSS curriculum. The goal of this project was to re-create a popular HTML form with HTML and CSS styling (<a href="https://login.mailchimp.com/signup/" target="_blank" rel="noopener noreferrer">Mailchimp form</a>). This project was made with the React JS Library and CSS.</p>
+<p>This project was built for <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/html-and-css/lessons/html-forms" target="_blank" rel="noopener noreferrer">The Odin Project's</a> HTML/CSS curriculum. The goal of this project was to re-create a popular HTML form with HTML and CSS styling (<a href="https://login.mailchimp.com/signup/" target="_blank" rel="noopener noreferrer">Mailchimp form</a>). This project was made with the React JS Library and CSS.</p>
 
 <h3>Features:</h3>
 
